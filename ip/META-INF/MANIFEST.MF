@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Angry IP Scanner
+Implementation-Version: 3.9.1
+Main-Class: net.azib.ipscan.Main
+Class-Path: /usr/share/java/swt4.jar /usr/lib/eclipse/swt.jar ./
+Title: Angry IP Scanner
+Version: 3.9.1
+Build-Date: 2023-02-11
+URL: https://angryip.org/
+
